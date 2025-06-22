@@ -4,8 +4,9 @@
 To develop an intelligent delivery time prediction system using neural networks that enhances customer satisfaction and operational efficiency by providing accurate, real-time ETAs for food deliveries across Porter’s intra-city logistics network.
 
 ## 📝 Project Report
--You can access the complete project python file here - [Python](https://github.com/nikhilsree5/PortBusinessCase/blob/main/Ola_Case_study.ipynb)
--You can access the complete project in pdf format here - [Report](https://github.com/nikhilsree5/PortBusinessCase/blob/main/Ola_Case_study.pdf)
+-You can access the complete project python file here - [Python](https://github.com/nikhilsree5/PorterBusinessCase/blob/main/Business_Case_Porter.ipynb)
+
+-You can access the complete project in pdf format here - [Report](https://github.com/nikhilsree5/PorterBusinessCase/blob/main/Business_Case_Porter.pdf)
 
 ## 📚 About Data
 
